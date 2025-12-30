@@ -6,7 +6,7 @@ build:
 accounts:
   message: "welcome to EazyBank accounts related production APIs"
   contactDetails:
-    name: "Jagdish-prod lead"
+    name: "Jagdish-production lead"
     email: "jagdish@gmail.com"
   onCallSupport:
     - (555)555-1234
