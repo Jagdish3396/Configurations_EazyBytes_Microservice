@@ -1,0 +1,10 @@
+
+
+loans:
+  message: "welcome to eazybank loans prod apis"
+  contactDetails:
+    name: "Jagdish-prod lead"
+    email: "jagdish@gmail.com"
+  onCallSupport:
+    - "5555"
+    - "7777"

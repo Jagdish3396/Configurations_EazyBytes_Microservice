@@ -1,0 +1,12 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+loans:
+  message: "welcome to eazybank loans qa apis"
+  contactDetails:
+    name: "Jagdish-qa lead"
+    email: "jagdish@gmail.com"
+  onCallSupport:
+    - "5555"
+    - "7777"

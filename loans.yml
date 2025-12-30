@@ -1,0 +1,9 @@
+
+loans:
+  message: "welcome to eazybank loans local apis"
+  contactDetails:
+    name: "Jagdish"
+    email: "jagdish@gmail.com"
+  onCallSupport:
+    - "5555"
+    - "7777"
