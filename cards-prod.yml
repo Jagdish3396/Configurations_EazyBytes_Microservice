@@ -6,7 +6,7 @@ build:
 cards:
   message: "welcome to EazyBank cards related production APIs"
   contactDetails:
-    name: "Jagdish-prod lead"
+    name: "Jagdish-production lead"
     email: "{cipher}0b732723fdcd6b92f2dccc35022f9aa122b373f9a561785a286fb5595565b036909a1fac26ad99e0f26d97e4deaddaf7"
   onCallSupport:
     - (555)555-1234
