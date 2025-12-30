@@ -4,7 +4,7 @@ build:
     "1.0"
 
 accounts:
-  message: "welcome to EazyBank accounts related local APIs"
+  message: "welcome to EazyBank accounts related production APIs"
   contactDetails:
     name: "Jagdish-prod lead"
     email: "jagdish@gmail.com"
