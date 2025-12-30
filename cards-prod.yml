@@ -4,7 +4,7 @@ build:
     "1.0"
 
 cards:
-  message: "welcome to EazyBank cards related local APIs"
+  message: "welcome to EazyBank cards related production APIs"
   contactDetails:
     name: "Jagdish-prod lead"
     email: "{cipher}0b732723fdcd6b92f2dccc35022f9aa122b373f9a561785a286fb5595565b036909a1fac26ad99e0f26d97e4deaddaf7"
