@@ -1,7 +1,7 @@
 
 
 loans:
-  message: "welcome to eazybank loans prod apis"
+  message: "welcome to eazybank loans production apis"
   contactDetails:
     name: "Jagdish-prod lead"
     email: "jagdish@gmail.com"
